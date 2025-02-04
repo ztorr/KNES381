@@ -1,0 +1,2 @@
+**bold**
+~~strike~~
