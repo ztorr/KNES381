@@ -8,6 +8,6 @@ __important__
 $\color{red}\textsf{WARNING!}$
 
 **bold**
-[My link]](https://github.com/ztorr/KNES381/blob/main/markdown.md)
+[My link](https://github.com/ztorr/KNES381/blob/main/markdown.md)
 </html>
 
