@@ -23,7 +23,7 @@ $\dot{Q}$
 [My link](https://github.com/ztorr/KNES381/blob/main/markdown.md)
 </body>
 
-Vowels | Cosonants
+Vowels | Consonants
 ------------- | -------------
 A | X
 E  | Z
