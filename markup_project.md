@@ -12,6 +12,9 @@ $\dot{V}O_2$
 My birthday is March 
 $19^{th}$
 
+Cardiac Output = 
+$\dot{Q}$
+
 
 [My link](https://github.com/ztorr/KNES381/blob/main/markdown.md)
 </html>
