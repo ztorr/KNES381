@@ -8,7 +8,7 @@ This is my ~~novice~~ amazing markup project
 
 $\color{red}\textsf{WARNING!}$
 
-`$\color{red}\textsf{WARNING!}$ # makes the phrase "WARNING!" red"`
+`$\color{red}\textsf{WARNING!}$ # makes the phrase "WARNING!" red`
 
 $\dot{V}O_2$
 
