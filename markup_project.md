@@ -13,10 +13,11 @@ $\color{red}\textsf{WARNING!}$
 # makes the phrase "WARNING!" red
 ```
 
-$\dot{V}O_2$
-
 My birthday is March 
 $19^{th}$
+
+Maximal uptake of oxygen is represented by
+$\dot{V}O_2$
 
 Cardiac Output = 
 $\dot{Q}$
