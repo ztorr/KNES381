@@ -7,5 +7,6 @@ __important__
 
 $\color{red}\textsf{WARNING!}$
 
-[title] (https://github.com/ztorr/KNES381/blob/main/markdown.md)
+
 </html>
+[title] (https://github.com/ztorr/KNES381/blob/main/markdown.md)
