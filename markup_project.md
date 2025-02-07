@@ -7,5 +7,5 @@ __important__
 
 $\color{red}\textsf{WARNING!}$
 
-[my markdown link] (https://github.com/ztorr/KNES381/blob/main/markdown.md)
+[title] (https://github.com/ztorr/KNES381/blob/main/markdown.md)
 </html>
