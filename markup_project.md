@@ -10,7 +10,7 @@ $\color{red}\textsf{WARNING!}$
 
 ```
 $\color{red}\textsf{WARNING!}$ 
-# makes the phrase "WARNING!" red`
+# makes the phrase "WARNING!" red
 ```
 
 $\dot{V}O_2$
