@@ -10,7 +10,7 @@ $\color{red}\textsf{WARNING!}$
 $\dot{V}O_2$
 
 My birthday is March 
-$19^t^h$
+$19^{th}$
 
 
 [My link](https://github.com/ztorr/KNES381/blob/main/markdown.md)
