@@ -7,7 +7,7 @@ __important__
 
 $\color{red}\textsf{WARNING!}$
 
-$\dot{V}O_2MAX$
+$\dot{V}O~2MAX$
 
 
 [My link](https://github.com/ztorr/KNES381/blob/main/markdown.md)
