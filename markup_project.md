@@ -6,5 +6,6 @@ __important__
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Moraine_Lake_17092005.jpg/1200px-Moraine_Lake_17092005.jpg" align="right" width="600" height="500">
 
 $\color{red}\textsf{WARNING!}$
-<a href="https://github.com/ztorr/KNES381/blob/main/markdown.md">My markdown link</a>
+
+[my markdown link] (https://github.com/ztorr/KNES381/blob/main/markdown.md)
 </html>
