@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<body>
 <h1 align="center">The Rocky Mountains</h1>
 
 This is my ~~novice~~ amazing markup project
@@ -20,5 +21,6 @@ $\dot{Q}$
 
 
 [My link](https://github.com/ztorr/KNES381/blob/main/markdown.md)
+</body>
 </html>
 
