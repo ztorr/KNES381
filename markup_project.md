@@ -7,7 +7,9 @@ __important__
 
 $\color{red}\textsf{WARNING!}$
 
-**bold**
+$\dot{V}O_2_M_A_X$
+
+
 [My link](https://github.com/ztorr/KNES381/blob/main/markdown.md)
 </html>
 
