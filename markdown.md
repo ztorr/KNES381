@@ -1,6 +1,6 @@
 # This is a heading
 _emphasis/italics_
-$\color:pink{textsf:{testingtesting}}$
+$\color{pink}\textsf{PINK}$
 **bold**
 ~~strike~~
 * bullet point 1
