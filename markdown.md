@@ -1,8 +1,12 @@
 # This is a heading
 _emphasis/italics_
+
 $\color{pink}\textsf{PINK}$
+
 **bold**
+
 ~~strike~~
+
 * bullet point 1
 1. A list
 2. Numbered list
